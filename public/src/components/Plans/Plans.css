@@ -1,0 +1,184 @@
+section {
+    color: #fff;
+    border: none;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.end{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 200px;
+
+}
+
+.year1 {
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.year2 {
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.year3 {
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text1{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.text2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.text3{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.susbcribe1{
+    position: relative;
+    background-color: #6421FF;
+    border-radius: 5px;
+    padding: 28px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    width: 240px;
+    height: 25px;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+    transition: all .3s ease-in-out;
+    z-index: 1;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+.susbcribe2{
+    position: relative;
+    background-color: #6421FF;
+    border-radius: 5px;
+    padding: 28px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    width: 240px;
+    height: 25px;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+    transition: all .3s ease-in-out;
+    z-index: 1;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+.susbcribe3{
+    position: relative;
+    background-color: #6421FF;
+    border-radius: 5px;
+    padding: 28px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    width: 240px;
+    height: 25px;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+    transition: all .3s ease-in-out;
+    z-index: 1;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+.position{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 45px;
+    gap: 80px;
+    
+}
+
+button{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.Plan1,
+.Plan3{
+    background-color: #090B13;
+    height: 300px;
+    width: 325px;
+    padding-bottom: 30px;
+    border-radius: 0%;
+    text-align: center;
+    margin-right: 50px;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.combopopular {
+   background-image: url(https://cnbl-cdn.bamgrid.com/assets/046ce06b35d3fff57c57ce77e1a7bf2145a7a3916459c6c4dd2724338eb48679/original);
+   justify-content: center;
+   height: 330px;
+   width: 400px;
+   padding-bottom: 30px;
+   border-radius: 0%;
+   text-align: center;
+   margin-right: 50px;
+   margin-top: 40px;
+   padding: 5px;
+   
+   
+}
+
+.img1,
+.img3{
+    width: 300px;
+    height: auto;
+}
+
+.Img2{
+    margin: 30px 0px 0px 0px;
+    width: 350px;
+    height: auto;
+}
